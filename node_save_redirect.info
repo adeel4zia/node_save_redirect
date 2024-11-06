@@ -1,0 +1,6 @@
+name = Node Save Redirect
+description = "Set the redirect location after node creation."
+backdrop = 1.x
+type = module
+package = Node Save Redirect
+version = 7.x-1.3
