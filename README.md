@@ -33,4 +33,6 @@ Twitter|X: [Adeel Ahmed](https://x.com/adeel4zia)
 
 Linkedin:  [Adeel Ahmed](https://www.linkedin.com/in/adeel4zia)
 
+Original:  [Drupal 7 module](https://www.drupal.org/project/node_save_redirect)
+
 For professional support and development services contact adeel4zia@gmail.com.
